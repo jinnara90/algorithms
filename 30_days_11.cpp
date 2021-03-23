@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 int summm(int iidx, int jidx, vector<vector<int>> arry, int max)
 {
 	int ii, jj;
